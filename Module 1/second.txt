@@ -1,0 +1,36 @@
+Q.2.A 
+    a=4 b=2 x=5 y=4
+
+    res = 5*b*b*x-3*a*y*y-8*b*b*x+10*a*y
+	  
+    1. Assign values to the variables.
+	
+       res = 5*2*2*5-3*4*4*4-8*2*2*5+10*4*4
+
+    2. Precedence of the operator is from
+          left --> right
+    
+    3. Execution of an operator is done as :
+          * /
+          + -
+
+	res = 100-192-160+160
+	res = -92
+
+Q.2.B
+	a=2
+	y=3
+	c=7
+
+	res = 4*a*y/c-a*y/c
+
+	1. Put values into variables
+	
+	   res = 4*2*3/7-2*3/7
+	   res = 6*3/7-2*3/7
+	   res = 18/7-2*3/7
+	   res = 2.571-2*3/7
+	   res = 5.14-2*3/7
+	   res = 5.14-6/7
+	   res = 5.14-0.85
+	   res = 4.28 
